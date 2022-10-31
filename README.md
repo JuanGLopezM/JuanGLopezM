@@ -20,15 +20,19 @@ You can take a look on my recent projects:
 CODE IN
 
 https://final-project-client.vercel.app/login
+
 https://github.com/JuanGLopezM/FinalProjectClient
+
 https://github.com/JuanGLopezM/FinalProjectServer
 
 ONLYFAVS
 
 https://project-onlyfavs.herokuapp.com/register
+
 https://github.com/JuanGLopezM/Proyecto2Node
 
 LABERINTO
 
 https://juanglopezm.github.io/Laberinto/
+
 https://github.com/JuanGLopezM/Laberinto
